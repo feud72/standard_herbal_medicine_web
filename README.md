@@ -1,4 +1,15 @@
-## 표준 한약처방 Web Build
+
+### 표준 한약처방 - 구글 플레이스토어
+
+https://play.google.com/store/apps/details?id=com.shkim72.standard_herbal_medicine
+
+### 웹 빌드 URL
+
+https://feud72.github.io/standard_herbal_medicine_web
+
+
+
+### 공공데이터 이용허락범위 및 출처 표시
 
 공공데이터포털 (https://www.data.go.kr/)
 
@@ -13,11 +24,3 @@
 [한의대 폐계내과학 교과서 처방 데이터](https://www.data.go.kr/data/15076002/fileData.do)
 
 [한의대 신계내과학 교과서 처방 데이터](https://www.data.go.kr/data/15076003/fileData.do)
-
-### 구글 플레이스토어
-
-https://play.google.com/store/apps/details?id=com.shkim72.standard_herbal_medicine
-
-### 웹 빌드 URL
-
-https://feud72.github.io/standard_herbal_medicine_web
