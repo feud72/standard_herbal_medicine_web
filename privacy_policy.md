@@ -1,64 +1,48 @@
-**Privacy Policy**
+## 표준 한약처방 개인정보처리방침
 
-SH Kim built the 표준 한약처방 app as a Free app. This SERVICE is provided by SH Kim at no cost and is intended for use as is.
+### 1. 개인정보 수집 항목 및 수집 방법(개인정보 수집·이용 목적)
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+표준 한약처방 서비스는 이용자의 개인정보를 수집하지 않고 있으며, 개인정보를 수집할 시에는 반드시 사전에 이용자에게 해당 사실을 알리고 동의를 구하겠습니다.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+### 2. 개인정보 위탁 및 제공
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at 표준 한약처방 unless otherwise defined in this Privacy Policy.
+표준 한약처방 서비스는 개인정보를 수집하지 않고 있으며, 또한 제3자에게도 제공하지 않습니다. 이후 제3자에게 제공하는 경우 반드시 사전에 이용자에게 해당 사실을 알리고 동의를 구하겠습니다.
 
-**Information Collection and Use**
+### 3. 개인정보의 이용 기간 및 파기방법
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+표준 한약처방 서비스는 이용자의 개인정보를 서버로 전송하거나 보관하고 있지 않습니다.
 
-The app does use third-party services that may collect information used to identify you.
+### 4. 이용자 및 법정대리인의 권리와 그 행사방법
 
-Link to the privacy policy of third-party service providers used by the app
+이용자는 언제든지 표준 한약처방 서비스를 이용할 수 있으며, 서비스 이용 시 개인정보를 수집하지 않습니다.
+또한, 법정대리인의 동의 없이 만14세 미만 아동의 개인정보를 수집하지 않습니다.
+표준 한약처방 서비스는 만 14세 미만 아동의 법정대리인의 법령 상의 권리를 보장합니다. (아동의 개인정보에 대한 열람, 정정·삭제, 개인정보처리정지요구권)
 
-- [Google Play Services](https://www.google.com/policies/privacy/)
+### 5. 인터넷 접속정보파일 등 개인정보를 자동으로 수집하는 장치의 설치·운영 및 거부사항
 
-**Log Data**
+표준 한약처방 서비스는 자동으로 개인정보를 수집하고 있지 않습니다.
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+### 6. 개인정보의 안전성 확보조치
 
-**Cookies**
+표준 한약처방 서비스는 정보통신망 이용촉진 및 정보보호 등에 관한 법률 제28조제1항에 따른 “개인정보의 기술적·관리적 보호조치 기준”을 준수합니다.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+### 7. 개인정보 책임자
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+개인정보와 관련하여 언제라도 문의 주시면 신속하고 충분한 답변을 드리도록 하겠습니다.
+개인정보 책임자: 김승효(feud72@gmail.com)
 
-**Service Providers**
+기타 개인정보 침해에 대한 신고나 상담이 필요하신 경우에는 아래 기관에 문의하시기 바랍니다.
 
-I may employ third-party companies and individuals due to the following reasons:
+개인정보침해신고센터 (국번없이) 118 http://privacy.kisa.or.kr/
 
-- To facilitate our Service;
-- To provide the Service on our behalf;
-- To perform Service-related services; or
-- To assist us in analyzing how our Service is used.
+대검찰청 사이버범죄수사단 02-3480-3571 cybercid@spo.go.kr
 
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+경찰청 사이버테러대응센터 (국번없이) 182 http://cyberbureau.police.go.kr/
 
-**Security**
+### 8. 기타
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+위 내용에 대한 추가, 삭제 및 수정이 있을 경우에는 시행하는 날로부터 최소 7일전에 공지사항 등을 통해 이용자에게 설명 드리겠습니다. 다만 이용자의 소중한 권리 또는 의무에 중요한 내용 변경은 최소 30일 전에 알려 드리겠습니다.
 
-**Links to Other Sites**
+개인정보처리방침 공지일자 : 2022. 09. 21.
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
-
-**Children’s Privacy**
-
-These Services do not address anyone under the age of 3. I do not knowingly collect personally identifiable information from children under 3 years of age. In the case I discover that a child under 3 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
-
-**Changes to This Privacy Policy**
-
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
-
-This policy is effective as of 2022-09-21
-
-**Contact Us**
-
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at feud72@gmail.com.
-
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+개인정보처리방침 시행일자 : 2022. 09. 21.
